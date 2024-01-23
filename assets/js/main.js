@@ -149,7 +149,7 @@
   /**
    * Skills animation
    */
-  let skilsContent = select('.skills-content');
+  /**let skilsContent = select('.skills-content');
   if (skilsContent) {
     new Waypoint({
       element: skilsContent,
@@ -161,7 +161,7 @@
         });
       }
     })
-  }
+  }*/
 
   /**
    * Porfolio isotope and filter
